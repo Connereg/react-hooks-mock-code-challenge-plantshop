@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": "21"
     },
     {
       "id": 2,
@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Seymour",
+      "image": "https://am23.mediaite.com/tms/cnt/uploads/2019/07/littleshopofhorrors-1200x675.jpg",
+      "price": "0.10",
+      "id": 8
     }
   ]
 }
